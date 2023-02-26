@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+.logo{
+    padding-top: 10px;
+}
+.logo :hover{
+    cursor: pointer;
+}
+.buttons{
+    display: flex;
+}
+.address{
+    padding-top: 24px;
+    padding-right:75px ;
+}
+.address :hover{
+    cursor: pointer;
+}
+.w{
+    padding-top: 26px;
+}
+.w :hover{
+    cursor: pointer;
+}
+.s :hover{
+    cursor: pointer;
+}
+.Info{
+    padding-left: 140px;
+    padding-top: 60px;
+}
+.Info h1{
+    font-size: 60px;     
+    color: rgb(255, 255, 255);
+}
+.order{
+    padding-left:100px ;
+}
+.order :hover{
+    cursor: pointer;
+}
+.box{
+    background: url(./Group\ 1\ 1.png );
+    height: 500px;
+}
+.onfoot{
+    background: url(./bag.png);
+}
+.free{
+    position: absolute;
+    top: 225px;
+    left: 730px;
+}
+button{
+    color: orangered;
+    background-color: pink;
+}
+.howitwork h3{
+    font-weight: bolder;
+    color: rgb(255, 186, 36);
+}
+.title h1{
+    color:rgb(255, 209, 59);
+    font-weight: bold;
+}
+.yellow{
+    color: rgb(255, 187, 0);
+    font-weight: bolder;
+}
+.whit{
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+.footer{
+    background: #000;
+    height: 700px;
+    color: white;
+}
+.copy{
+    border-top: #ffffff 2px solid;
+}
+.bt :hover{
+    cursor: pointer;
+}
+.bu :hover{
+    cursor: pointer;
+}
+.bg :hover{
+    cursor: pointer;
+}
